@@ -37,12 +37,11 @@ A comprehensive fitness tracking application built with **Flutter** to help user
 
 ### 🛠️ Tech Stack
 - **Frontend:** Flutter, Dart
-- **State Management:** Provider / GetX
+- **State Management:** Provider 
 - **Backend:** REST APIs
 - **Database:** Firebase 
 
-### 📂 Repository
-[View on GitHub](https://github.com/uw-23-cs-bs-002-png) *(Add direct link if available)*
+
 
 ## 📚 Education
 
