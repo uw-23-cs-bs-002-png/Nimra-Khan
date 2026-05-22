@@ -57,11 +57,9 @@ A comprehensive fitness tracking application built with **Flutter** to help user
 
 ## 🎓 Future Goals
 
-- ✅ Build production-ready apps with Flutter and APIs
-- ✅ Contribute to open-source mobile projects
-- ✅ Deepen expertise in cloud technologies
-- ✅ 
-- ✅ 
+- 🚀 Build scalable, real-world apps with **Flutter** and **REST APIs**
+- 📈 Master **Data Analysis & Visualization** using Python (Pandas, Matplotlib, Plotly)
+- 📊 Apply data-driven insights to mobile app development
 
 ---
 
@@ -82,5 +80,6 @@ I'm always interested in:
 - 🔗 Collaborating on Flutter/Android projects
 - 💬 Discussing mobile development best practices
 - 🎓 Sharing knowledge and learning together
+- - 📊 Data Analysis & Business Intelligence
 
 Feel free to reach out if you'd like to work together!
